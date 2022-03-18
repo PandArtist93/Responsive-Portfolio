@@ -38,4 +38,3 @@ If you want to view the portfolio, you can do it through the following link 🌐
 ****
 
 Design by javascriptmastery, resources at [here](https://www.completepathtojavascriptmastery.com/) and on respective social networks.
-
